@@ -49,33 +49,33 @@ ChemEQN is your intuitive chemical equation software! Enter reactions using comm
 (Screenshots are stored in the `/Screenshots` folder.)
 
 ### 1. Main Interface (Text Mode)
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Text_Mode.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Text_Mode.png)
 The clean interface with the Output Target Mode selector, equation input box, quick-insert symbol buttons (+, →, ⇌), and the balanced result with a detailed molar mass breakdown table.
 
 ### 2. Charge Analysis for Ionic Equations
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Charge_Analysis.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Charge_Analysis.png)
 Automatic charge conservation report for complex ionic equations such as [S₂O₃]²⁻ + [CN]⁻ → [SCN]⁻ + [SO₃]²⁻.
 
 ### 3. Molecular Structure (.RXN) Mode
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_RXN_Mode.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_RXN_Mode.png)
 2D molecular structures of reactants and products rendered directly on the result canvas using RDKit.
 
 ### 4. External Software Integration
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_BIOVIA_Draw.png
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_ChemSketch.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_BIOVIA_Draw.png)
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_ChemSketch.png)
 Exported .RXN files opened seamlessly in BIOVIA Draw 2025 and ACD ChemSketch (Freeware) for further editing and visualization.
 
 ### 5. Limiting Reactant & Theoretical Yield Analysis
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Limiting_Reactant.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Limiting_Reactant.png)
 Stoichiometry analytics in action: limiting reactant identification, excess reactant leftovers, and theoretical product yields calculated from user-input reactant masses.
 
 ### 6. Menu System & Keyboard Shortcuts
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Menu_Action.png
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Menu_Insert.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Menu_Action.png)
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_Menu_Insert.png)
 The Action and Insert menus displaying dedicated keyboard shortcuts and predefined reaction examples for rapid data entry.
 
 ### 7. About the Software & Author
-https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_About.png
+(https://github.com/usman-vb/ChemEQN/blob/main/Screenshots/ChemEQN_About.png)
 Version info, build details, external libraries used, and direct links to the developer's website and GitHub repository.
 
 ## ⚙️ System Requirements
