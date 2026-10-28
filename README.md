@@ -63,7 +63,7 @@ Automatic charge conservation report for complex ionic equations such as [Sâ‚‚Oâ
 ### 4. External Software Integration
 ![BIOVIA Draw Integration](Screenshots/ChemEQN_BIOVIA_Draw.png)
 ![ACD ChemSketch Integration](Screenshots/ChemEQN_ChemSketch.png)
-Exported .RXN files opened seamlessly in BIOVIA Draw 2025 and ACD ChemSketch (Freeware) for further editing and visualization.
+Exported .RXN files opened seamlessly in BIOVIA Draw and ACD ChemSketch for further editing and visualization.
 
 ### 5. Limiting Reactant & Theoretical Yield Analysis
 ![Limiting Reactant & Theoretical Yield Analysis](Screenshots/ChemEQN_Limiting_Reactant.png)
